@@ -1,0 +1,6 @@
+.venv/
+__pycache__/
+.ipynb_checkpoints/
+# 시험 데이터는 저장소에 넣지 않는다 (README 참고)
+data/
+.DS_Store
