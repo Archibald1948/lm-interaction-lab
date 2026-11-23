@@ -1,0 +1,7 @@
+0.989 | When was the English Premier League (EPL) established? -> 1992
+0.979 | Which teams are mentioned as being successful in both domestic and international competitions? -> Manchester United, Liverpool, Chelsea, and Manchester City
+0.209 | What system does the EPL use to manage promotion and relegation? -> promotion and relegation system
+0.053 | What are some of the challenges currently faced by the EPL? -> financial disparity among clubs, fixture congestion
+0.248 | How has the EPL achieved global popularity? -> diverse pool of players
+0.181 | Who won the EPL in 2020? -> Manchester United, Liverpool, Chelsea, and Manchester City
+0.032 | EPL은 몇 년에 만들어졌어? -> English Premier League
