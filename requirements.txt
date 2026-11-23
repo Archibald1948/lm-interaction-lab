@@ -1,0 +1,8 @@
+# transformers 5.x에서는 summarization / question-answering 파이프라인이 빠졌으므로 4.x를 쓴다
+transformers>=4.45,<5
+torch
+pillow
+datasets
+flask
+sentencepiece
+jupyter
